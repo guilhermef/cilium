@@ -136,12 +136,14 @@ github.com/cilium/kafka v0.0.0-20180809090225-01ce283b732b h1:+bsFX/WOMIoaayXVyR
 github.com/cilium/kafka v0.0.0-20180809090225-01ce283b732b/go.mod h1:ktgizta3CPZBKz5uW272SJyjiro0vn4nOVP7Pk4RopA=
 github.com/cilium/netlink v1.0.1-0.20201214091400-b6003859665e h1:u4tHw+BfNPehuFyk/uZQApmarvvlpDU6mfivUINTWUk=
 github.com/cilium/netlink v1.0.1-0.20201214091400-b6003859665e/go.mod h1:twkDnbuQxJYemMlGd4JFIcuhgX83tXhKS2B/PRMpOho=
-github.com/cilium/proxy v0.0.0-20200728092031-595bb722a4ab h1:338tNA01tXWGLh+oU8VwNDWep/txhOOWoiP6OOopvJE=
-github.com/cilium/proxy v0.0.0-20200728092031-595bb722a4ab/go.mod h1:MsrtgITWuZatZCS715qDH+dp2iaVjOuxnIr8uwja5cM=
+github.com/cilium/proxy v0.0.0-20201221010507-2d2e18767f7e h1:8GVw8UDfCyjU9gVxSAelVDidEeSfiKKbaKcMNe4nL0g=
+github.com/cilium/proxy v0.0.0-20201221010507-2d2e18767f7e/go.mod h1:MsrtgITWuZatZCS715qDH+dp2iaVjOuxnIr8uwja5cM=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
 github.com/cncf/udpa/go v0.0.0-20191230090109-edbea6a78f6d h1:F6x9XOn7D+HmM4z8vuG/vvlE53rWPWebGLdIy3Nh+XM=
 github.com/cncf/udpa/go v0.0.0-20191230090109-edbea6a78f6d/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
+github.com/cncf/udpa/go v0.0.0-20201211205326-cc1b757b3edd h1:inpz6arsmh6ys7jjP0G1noZqKcCPpV4GZmffBPilAjA=
+github.com/cncf/udpa/go v0.0.0-20201211205326-cc1b757b3edd/go.mod h1:WmhPx2Nbnhtbo57+VJT5O0JRkEi1Wbu0z5j0R8u5Hbk=
 github.com/cockroachdb/datadriven v0.0.0-20190809214429-80d97fb3cbaa h1:OaNxuTZr7kxeODyLWsRMC+OD03aFUH+mW6r2d+MWa5Y=
 github.com/cockroachdb/datadriven v0.0.0-20190809214429-80d97fb3cbaa/go.mod h1:zn76sxSg3SzpJ0PPJaLDCu+Bu0Lg3sKTORVIj19EIF8=
 github.com/containernetworking/cni v0.7.0/go.mod h1:LGwApLUm2FpoOfxTDEeq8T9ipbpZ61X79hmU3w8FmsY=
